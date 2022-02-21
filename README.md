@@ -1,5 +1,5 @@
 # SeenaAndroidTask
-Seena Android Task Using: Restful Apis , Retrofit , Singleton Design Pattern  , Mvvm Design Architecture and RxJava  and Third Party Library ( Picasso )
+Seena Android Task Using: Restful Apis , Retrofit , Singleton Design Pattern  , Mvvm Design Architecture and RxJava , Android Jetback LiveData and Third Party Library ( Picasso )
 
 
 
@@ -18,4 +18,5 @@ This project is a starting point for a Android Native application.
 - Singleton Design Pattern
 - Mvvm Design Architecture
 - RxJava
+- Android Jetback LiveData
 - Third Party Library ( Picasso )
